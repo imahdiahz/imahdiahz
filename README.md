@@ -1,6 +1,6 @@
-### Hi , Im Mahdi Ahz (:  
-  
-  I'm a Flutter Developer 👨‍💻
+
+> Hi there! I’m a junior Developer with a passion for coding. I have experience working with languages and technologies such as PHP/Laravel, Python/Pyrogram,Dart/Flutter and GNU/Linux
+
 
 <p align="end">
    <a aria-label="Telegram" href="https://t.me/imahdiahz"><img alt="Telegram" src="https://persian-badge.vercel.app/api/badge/تلگرام-پیام دهید-0088CC?logo=telegram"></a>
